@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `git clone git@github.com:BhushanPatil5/Student-Grid-App.git`
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br />
